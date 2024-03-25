@@ -33,7 +33,7 @@
 </div>
 ## About the Project
 <p>
-		AgileLine is a website that supports teams in managing all projects across various fields by providing tools to track the progress of specific projects through issue management. It facilitates a more systematic development of projects, empowering team members with increased responsibility for their projects and enabling a comprehensive review of the entire project development process for the team
+		This is Something something
 
 </p>
 
