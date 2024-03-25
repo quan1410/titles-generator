@@ -31,6 +31,7 @@
 	<a href="https://github.comVinhLL/titles-generator/issues/">Request Feature</a>
 </h4>
 </div>
+
 ## About the Project
 <p>
 		This is Something something
