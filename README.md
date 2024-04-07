@@ -1,4 +1,4 @@
-# I have no idea what to name this.
+# CoTTSum (CourseTitleTranslateSummarize app)
 <div align="center">
 	<h1>Something something</h1>
 	<p style = "color: palegreen;">
