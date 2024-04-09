@@ -2,8 +2,8 @@
 {% block title %}Login{% endblock %}
 {% block content %}
 <div class="center-vertical">
+  <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" width="100px" height="100px">
   <h3 style="font-size: 3em;">Chào mừng bạn đến với Title Generator</h3>
-  <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo">
   <form method="POST" style="text-align: center; display: flex; flex-direction: column; align-items: center;">
     <h3>Đăng nhập</h3>
     <div class="form-group">
